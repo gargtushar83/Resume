@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(184, 142, 142);
+    text-align: center;
+    margin: 0;
+    font-family: "Sofia", sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    width: 26%;
+    margin: auto;
+    color: #66BFBF;
+    line-height: 4;
+}
+h2{ color: #66BFBF;
+    font-weight: normal;
+}
+
+div {
+    /* padding: 20px; */
+    margin: 35px;
+
+}
+
+.topcontainer {
+    background-color: #20cdf4;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottomcloud {
+    position: absolute;
+    left: 300px;
+    bottom: 200px;
+}
+.middle-conatiner{}
+.bottom-conatiner{}
